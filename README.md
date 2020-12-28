@@ -3,7 +3,7 @@ go build
 ./main -domain-file ./<YourDomainFile>
 
 
-./main -h                                                                                                            [±master ●]
+./main -h
 Usage of ./main:
   -domain-file string
     	Path to file with domains (separated by newlines)
