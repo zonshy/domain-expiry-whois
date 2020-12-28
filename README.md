@@ -1,8 +1,8 @@
-```
+```shell
 go build
 ./main -domain-file ./<YourDomainFile>
 
-
+=======
 ./main -h
 Usage of ./main:
   -domain-file string
